@@ -1,3 +1,3 @@
 print("This is a game!!!..")
-x = input("dfdf")
+x = input("dftrtdf")
 print(x)
