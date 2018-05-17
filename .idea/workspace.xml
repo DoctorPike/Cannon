@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="929d8561-c0a6-4956-9edd-9fac094378de" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,6 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -55,6 +55,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -71,8 +73,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -171,6 +171,21 @@
       <option name="presentableId" value="Default" />
       <updated>1526328960203</updated>
     </task>
+    <task id="LOCAL-00001" summary="nlbl">
+      <created>1526498740704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526498740704</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nlblbhnm">
+      <created>1526499207154</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526499207154</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -181,14 +196,14 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074625" side_tool="true" visible="true" weight="0.30990782" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.31045407" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49925372" weight="0.30990782" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49850747" weight="0.32949308" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25820896" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2619403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -233,7 +248,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nlbl" />
+    <MESSAGE value="nlblbhnm" />
+    <option name="LAST_COMMIT_MESSAGE" value="nlblbhnm" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
